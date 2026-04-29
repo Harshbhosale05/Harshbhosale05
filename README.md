@@ -48,7 +48,7 @@ The answer to one of the hardest problems in digital payments: **how do you make
 
 **Our answer: replace hardware with mathematics.**
 
-- **SD-SE (Software-Defined Secure Element)** — novel WBC-FROST hybrid independently discovered; HSM-grade key protection in pure software
+- **SD-SE (Software-Defined Secure Element)** — novel WBC hybrid independently discovered; HSM-grade key protection in pure software
 - **Zero-Trust Offline Settlement** — atomic transfers with cryptographic nullifiers; no double-spending, no central server
 - **Transport-Agnostic Layer** — BLE, NFC, QR; works across any device class
 

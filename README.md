@@ -6,9 +6,9 @@
 
 ## 🧭 Who I Am
 
-I'm a third-year engineering student (CGPA: **9.26/10**) at PICT Pune, working at the intersection of **financial systems architecture, cryptographic security, and digital public infrastructure**.
+I'm a Forth-year engineering student (CGPA: **9.27/10**) at PICT Pune, working at the intersection of **financial systems architecture, cryptographic security, and digital public infrastructure**.
 
-I don't just build features — I design systems. My work spans offline payment protocols, CBDC frameworks, AI-driven safety platforms, and DevOps infrastructure — always with a focus on scale, security, and real-world impact.
+I don't just build features — I design systems. My work spans offline payment protocols, CBDC frameworks, AI-driven safety platforms, and Post Qunatum Cryptography — always with a focus on scale, security, and real-world impact.
 
 What drives me: **designing systems that are policy-compliant, financially inclusive, and built to last.**
 
@@ -76,14 +76,14 @@ AI and IoT applied to women's safety in real infrastructure-scarce environments.
 | 🌏 **TIGC International Hackathon** | Finalist · 300 AUD awarded |
 | 🇮🇳 **Smart India Hackathon 2025** | Finalist |
 | ⚡ **Techfest IIT Bombay 2025** | Finalist |
-| 🚗 **imobilothon 5.0** | Finalist · Volkswagen |
+
 
 ---
 
 ## 🎓 Background
 
 **B.E. Electronics & Telecommunication** — Pune Institute of Computer Technology (PICT)
-CGPA: **9.26 / 10** · Batch of 2027
+CGPA: **9.27/ 10** · Batch of 2027
 
 **Jawahar Navodaya Vidyalaya, Solapur** · 93.80% · CBSE
 
@@ -109,4 +109,3 @@ CGPA: **9.26 / 10** · Batch of 2027
 
 ---
 
-*"The hardwork paid off. But this is only the beginning."*
